@@ -1,4 +1,5 @@
 {
   "go": "broncos",
-  "foo": "bar"
+  "foo": "bar",
+  "env": "dev"
 }
